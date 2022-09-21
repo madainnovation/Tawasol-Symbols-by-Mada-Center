@@ -1,7 +1,7 @@
 # Tawasol-Symbols-by-Mada-Center
 
 
-![Home Image](https://staging.madaportal.org/newTawasol/wp-content/uploads/2020/09/Home-Bg1.jpg)
+![Home Image](https://tawasol.mada.org.qa/wp-content/uploads/2022/09/Home-Bg1.jpg)
 
 
 <p align="right">رموز تواصل هي عبارة عن قاموس عربي/إنجليزي يتكون من الكلمات الأكثر استخدامًا في التحدث والكتابة ممثّلة برموز وصور توضيحية.  وهي جزء من مجموعة أدوات تهدف إلى تحسين مهارات التواصل للذين يعانون من صعوبات في التواصل أو في القراءة والكتابة
